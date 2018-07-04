@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  name: MyString
+  style: MyString
+  shape: MyString
+  material: MyString
+  color: MyString
+  brand: MyString
+  genre: MyString
+  glass_type: MyString
+  periodicity: MyString
+  vision: MyString
+  conditioning: MyString
+  polarized: false
+
+two:
+  type: 
+  name: MyString
+  style: MyString
+  shape: MyString
+  material: MyString
+  color: MyString
+  brand: MyString
+  genre: MyString
+  glass_type: MyString
+  periodicity: MyString
+  vision: MyString
+  conditioning: MyString
+  polarized: false
