@@ -7,7 +7,6 @@ end
 
 gem 'devise'
 gem 'rails', '~> 5.1.6'
-gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
@@ -18,6 +17,9 @@ gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'devise-i18n'
 gem 'haml'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'figaro'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
